@@ -24,7 +24,7 @@ class Employee {
 	@Override
 	public String toString() {
 		return "Employee [name=" + name + ", birthDate=" + birthDate + "]";
-	}s
+	}
 }
 public class EmployeeTest {
 
